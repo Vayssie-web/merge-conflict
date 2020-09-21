@@ -1,4 +1,4 @@
 # merge-conflict
- REMOTE un test pour gerer les conlit lors de merge
+ LOCAL un test pour gerer les conlit lors de merge
  voila voila
  
