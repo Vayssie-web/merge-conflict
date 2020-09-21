@@ -1,4 +1,4 @@
 # merge-conflict
- ceci est un test pour gerer les conlit lors de merge
+ REMOTE est un test pour gerer les conlit lors de merge
  voila voila
  
